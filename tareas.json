@@ -1,0 +1,32 @@
+[
+    {
+        "Codigo": 1,
+        "Titulo": "Extraer",
+        "Estado": "En progreso"
+    },
+    {
+        "Codigo": 2,
+        "Titulo": "Extraer",
+        "Estado":"Pendiente"
+    },
+    {
+        "Codigo": 3,
+        "Titulo": "Extraer",
+        "Estado":"Terminado"
+    },
+    {
+        "Codigo": 4,
+        "Titulo": "Extraer",
+        "Estado":"Pendiente"
+    },
+    {
+        "Codigo": 5,
+        "Titulo": "Extraer",
+        "Estado":"En progreso"
+    },
+    {
+        "Codigo": 6,
+        "Titulo": "Extraer",
+        "Estado": "Terminado"
+    }
+]
